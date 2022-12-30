@@ -1,0 +1,1 @@
+AB test used to understand the buying pattern of customers after running a coupon campaign at a clothing company
